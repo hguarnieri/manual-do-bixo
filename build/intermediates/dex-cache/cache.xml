@@ -3,24 +3,6 @@
 
     <item
         is-multidex="true"
-        jar="/Users/Henrique/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_f0b5ba3a5b5f72a6f66cfb98560bfa98a624c919/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-25.0.1_d33b56338432322a7e93ea2d50b890984ca96d86.jar" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -30,39 +12,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_00008be55d8fcd57b3da0d603d8f57ea9c21395d.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.github.championswimmer/Android-SocialButtons/1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
         sha1="466448960570bf1083a050d9a44a738567497aab">
         <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/pre-dexed/release/com.github.championswimmer-Android-SocialButtons-1.0_3092e41d37096cbc4f300936ace98dbf36785427.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_d1bfeaebf2c4a6f933ad2475303c1bbedf13993d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_fc9b53b2fc1bf0499450991ea863645f964f05d9.jar" />
     </item>
     <item
         is-multidex="true"
@@ -75,42 +30,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.0.1_f8423f707a8a80c39b2c504c227b4ba591800770.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/libs/rollbar-android-0.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="f5296de8688a9113c9c6c27213339753177b9746">
-        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/rollbar-android-0.2.0_d78f875c7fc19df1e7465b1dad9d5bd5ea7f984d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_dbce6d9d5c888b1d89f912370316c6a76cd94e94/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_fd8ff139a88aaf8a9d67fa6e31b65f7dfecda94b/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -120,30 +39,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-24.2.1_e23671f45d48b35363ee1a21cc1152a40eced521.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="e14f14355db7104a795587a0fcbd69b01fec8c7f">
-        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c040da4e0cb5116f67afe867a1b955a6a4ced25e/classes.dex" />
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-7.5.0_d8f4ce83fa842288f086585ee8f0b82077ab282f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_9e7b053bae6894b263c08616020477e050cf02db.jar" />
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-7.5.0_9855302a561876c0b75a474db67bd4703c9b0806.jar" />
     </item>
     <item
         is-multidex="true"
@@ -165,12 +75,39 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_6656ce4355e9a8527b8b8851d29539e16a094b88.jar" />
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-7.5.0_25db98e3f28bdeea922e284dc991b576df86027c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0_f6a24a5b5ee3b1f8c48bb886fbb3b0447ac19d47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-7.5.0_12cfea36128d916410184ec0a68ba3b54f17d5e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-7.5.0_c9e8757dcfb4a92526d190ae0a738724400dbd33.jar" />
     </item>
     <item
         is-multidex="true"
@@ -198,15 +135,6 @@
         revision="25.0.1"
         sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
         <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-25.0.1_6c153a06b07493942cf3644bca45f904a419cc2a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-25.0.1_52b59b7180e1744d4dcf4ed09673c97c03939ebb.jar" />
     </item>
     <item
         is-multidex="true"
@@ -237,6 +165,357 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-7.5.0_aef559c34519f7af338cdddb1f1e0e55c0d9b245.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-22.0.0_a91fdf1f25d6c9a1d938ed2b4f2fce7d79494041.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-7.5.0_7084662fca88574061bfdd3f07004dc23aea65a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-7.5.0_00d9c1c5bee0cc9995acb922f4cfe6a47be31049.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_b15703d5d43b5915832408447d71c6f3bdb18165.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-7.5.0_e41346a8960d1b49bc0c7cb28ffb80c4df0d5026.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_fc9b53b2fc1bf0499450991ea863645f964f05d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_3a233a2e68f9e4b403bfba8384a63bfd1b96112e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.github.championswimmer/Android-SocialButtons/1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="466448960570bf1083a050d9a44a738567497aab">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.github.championswimmer-Android-SocialButtons-1.0_2db9e4f148affccd1c60ae69a108027e0f94d254.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_f59b9848f6f8d8fff654a5c00fcd6e219231c0b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-7.5.0_76f5387d5243601221594d87f435990975d2657d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_689f195a4eecb725a9ad47b64a2b331b69d104af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-7.5.0_f36640eedfe83f5f2fa15cc02c9f8a472771317a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appstate-7.5.0_92ab0dd12bfc0e5d00f1197991a8fa28396479f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_482127dba83dd444ecb3740c01d88fb3eaa2b780.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.0.1_1edba1cb87ab301c96b939102a986b876a713c2a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_52b59b7180e1744d4dcf4ed09673c97c03939ebb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_09dc7aba76c777e699c21e32056dc92f4ebebecb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_e23671f45d48b35363ee1a21cc1152a40eced521/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-7.5.0_982efeeec52d564b3a283b2ba98dcc4032ccb3f7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d1bfeaebf2c4a6f933ad2475303c1bbedf13993d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Henrique/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_f0b5ba3a5b5f72a6f66cfb98560bfa98a624c919/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-25.0.1_d33b56338432322a7e93ea2d50b890984ca96d86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_00008be55d8fcd57b3da0d603d8f57ea9c21395d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_d1bfeaebf2c4a6f933ad2475303c1bbedf13993d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_fc9b53b2fc1bf0499450991ea863645f964f05d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.0.1_f8423f707a8a80c39b2c504c227b4ba591800770.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/libs/rollbar-android-0.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f5296de8688a9113c9c6c27213339753177b9746">
+        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/rollbar-android-0.2.0_d78f875c7fc19df1e7465b1dad9d5bd5ea7f984d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-7.5.0_1f02c534004c9ff1c4f4e06d7b56d6ec939ac179.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_dbce6d9d5c888b1d89f912370316c6a76cd94e94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_fd8ff139a88aaf8a9d67fa6e31b65f7dfecda94b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-7.5.0_3523da2662aacbc10fd4a5270faca5a1b24e47b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-24.2.1_e23671f45d48b35363ee1a21cc1152a40eced521.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e14f14355db7104a795587a0fcbd69b01fec8c7f">
+        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c040da4e0cb5116f67afe867a1b955a6a4ced25e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_9e7b053bae6894b263c08616020477e050cf02db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_6656ce4355e9a8527b8b8851d29539e16a094b88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.mixpanel.android/mixpanel-android/4.9.8/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fea30cb1bec0f8856278753a53db087d52ea6c45">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.mixpanel.android-mixpanel-android-4.9.8_e69d6b1a60117a5f840062c7855ba3cb67dbd577.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-25.0.1_52b59b7180e1744d4dcf4ed09673c97c03939ebb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-7.5.0_9cac0e06ce85ed90b5ada3be37e601293489469a.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -254,6 +533,15 @@
         <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_5bc6408ce1a6e4e460b3c846690abb0d5619750a.jar" />
     </item>
     <item
+        is-multidex="false"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-7.5.0_fc08b40955624972805e6215bca1571454f0009a.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
         jumboMode="true"
@@ -263,15 +551,6 @@
         <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_f8423f707a8a80c39b2c504c227b4ba591800770/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_b15703d5d43b5915832408447d71c6f3bdb18165.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
         jumboMode="true"
@@ -279,15 +558,6 @@
         revision="25.0.1"
         sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
         <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_d33b56338432322a7e93ea2d50b890984ca96d86/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_fc9b53b2fc1bf0499450991ea863645f964f05d9/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -336,12 +606,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_3a233a2e68f9e4b403bfba8384a63bfd1b96112e.jar" />
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-7.5.0_6b1672b8ae452671b683c254098caa44cdabf630.jar" />
     </item>
     <item
         is-multidex="false"
@@ -380,33 +650,6 @@
         <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_58c64e54d57a5a9707ebc80d1c53353b1c073e71.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.github.championswimmer/Android-SocialButtons/1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="466448960570bf1083a050d9a44a738567497aab">
-        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.github.championswimmer-Android-SocialButtons-1.0_2db9e4f148affccd1c60ae69a108027e0f94d254.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_f59b9848f6f8d8fff654a5c00fcd6e219231c0b7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_689f195a4eecb725a9ad47b64a2b331b69d104af.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
         jumboMode="true"
@@ -414,15 +657,6 @@
         revision="25.0.1"
         sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
         <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_1edba1cb87ab301c96b939102a986b876a713c2a/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_482127dba83dd444ecb3740c01d88fb3eaa2b780.jar" />
     </item>
     <item
         is-multidex="false"
@@ -435,6 +669,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-7.5.0_0367fa95dc41c72202eac85047c722706948bba1.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -444,21 +687,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.0.1_1edba1cb87ab301c96b939102a986b876a713c2a.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_52b59b7180e1744d4dcf4ed09673c97c03939ebb/classes.dex" />
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-7.5.0_cd3c4cff2084eeadd2a8e7ae8b2a650fc53f68e2.jar" />
     </item>
     <item
         is-multidex="false"
@@ -468,24 +702,6 @@
         revision="25.0.1"
         sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
         <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.0.1_f2377d0776113dbdb0a2017cd1846046e67fc73c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Henrique/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_09dc7aba76c777e699c21e32056dc92f4ebebecb.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_e23671f45d48b35363ee1a21cc1152a40eced521/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -531,15 +747,6 @@
         revision="25.0.1"
         sha1="f83b00041ecfba705603fec40363416c7de69719">
         <dex dex="/Users/Henrique/manual-do-bixo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a545cb6dabe2d7738a0ba6adc63aa9af53fd52cf.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/Users/Henrique/Downloads/manual-do-bixo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d1bfeaebf2c4a6f933ad2475303c1bbedf13993d/classes.dex" />
     </item>
     <item
         is-multidex="false"

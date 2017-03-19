@@ -80,6 +80,8 @@ public class ManualFragment extends Fragment {
                 ii = indexList.get(i);
                 Intent newIntent = new Intent(getActivity(), ShowHTML.class);
                 newIntent.putExtra("filename", ii.getFileName());
+
+                TrackerService.getInstance().track("File: " + ii.getFileName() + " - Event: Opened", getContext());
                 startActivity(newIntent);
             }
         });

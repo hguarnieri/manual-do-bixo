@@ -23,6 +23,8 @@ import android.widget.Button;
 import android.widget.ListView;
 
 
+import com.mixpanel.android.mpmetrics.MixpanelAPI;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -46,6 +48,8 @@ public class HomeActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
 
+        TrackerService.getInstance().track("HomeActivity opened", getApplicationContext());
+
         toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
@@ -61,6 +65,7 @@ public class HomeActivity extends AppCompatActivity {
             @Override
             public void onDrawerOpened(View drawerView) {
                 if (getSupportActionBar()!= null ) {
+                    TrackerService.getInstance().track("Left menu opened", getApplicationContext());
                     getSupportActionBar().setTitle(R.string.openDrawer);
                 }
             }
@@ -69,6 +74,7 @@ public class HomeActivity extends AppCompatActivity {
             public void onDrawerClosed(View drawerView) {
                 super.onDrawerClosed(drawerView);
                 if (getSupportActionBar()!= null ) {
+                    TrackerService.getInstance().track("Left menu closed", getApplicationContext());
                     getSupportActionBar().setTitle(R.string.closeDrawer);
                 }
             }
@@ -83,6 +89,7 @@ public class HomeActivity extends AppCompatActivity {
                 Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse(YourPageURL));
 
                 startActivity(browserIntent);
+                TrackerService.getInstance().track("Button: Site Cati - Event: Clicked", getApplicationContext());
             }
         });
 
@@ -90,6 +97,7 @@ public class HomeActivity extends AppCompatActivity {
         btnEmailCati.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                TrackerService.getInstance().track("Button: Email Cati - Event: Clicked", getApplicationContext());
                 Intent intent = new Intent(Intent.ACTION_SENDTO, Uri.fromParts("mailto", "cati@catijr.ufscar.br", null));
                 startActivity(Intent.createChooser(intent, "Escolha um cliente de email:"));
             }
@@ -99,6 +107,7 @@ public class HomeActivity extends AppCompatActivity {
         btnTelefoneCati.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                TrackerService.getInstance().track("Button: Telefone Cati - Event: Clicked", getApplicationContext());
                 if (ActivityCompat.checkSelfPermission(getApplicationContext(), Manifest.permission.CALL_PHONE) != PackageManager.PERMISSION_GRANTED) {
                     requestTelefone();
                 } else {
@@ -113,6 +122,7 @@ public class HomeActivity extends AppCompatActivity {
         btnPaginaCati.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                TrackerService.getInstance().track("Button: Página Cati - Event: Clicked", getApplicationContext());
                 String YourPageURL = "https://www.facebook.com/catijr/";
                 Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse(YourPageURL));
 
